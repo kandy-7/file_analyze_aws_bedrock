@@ -1,2 +1,4 @@
 bedrock/
 .env
+.env.local
+.env.*.localCopied!   
